@@ -1,4 +1,4 @@
-# node-es2015
+# node-es2015-boilerplate
 
 Sample ES2015 boilerplate
 
